@@ -56,6 +56,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
 ### Analyzing the Bundle Size
+This To-do app is aimed at implementing the CRUD concept
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 

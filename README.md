@@ -57,6 +57,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/co
 
 ### Analyzing the Bundle Size
 This To-do app is aimed at implementing the CRUD concept
+This is an open template for all those who want to Add in more  interactive UI 
+
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 

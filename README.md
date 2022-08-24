@@ -59,6 +59,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/co
 This To-do app is aimed at implementing the CRUD concept
 This is an open template for all those who want to Add in more  interactive UI 
 You may use Material ui and React-bootsrap
+Faster way o keep track of the activities
 
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
